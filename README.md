@@ -28,6 +28,7 @@ Bob's skillset for right now will be simple, once we can implement the moderatio
 
 ###### Licensing Agreement
 Feel free to use the code posted here to your using. I am not going to stop you, but please, for the love of god, if you're going to use the code, make sure you adjust it properly to your client's needs and desires.
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 [![License: WTFPL](https://img.shields.io/badge/License-WTFPL-brightgreen.svg)](http://www.wtfpl.net/about/)
