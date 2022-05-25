@@ -1,5 +1,12 @@
+![Hello Peter.](https://media1.giphy.com/media/ikd26JBOm5207KcZVd/200.gif)
+
+Chances are your name isn't Peter, but if it is, then hell, how are ya? 
+
 # Overview
 Bob (BelcherBot was to be quite frank, too weird for my liking) is a new, simple moderation system that streamlines everything that users need, whether it would be roles, moderation, weather, or any of the 8 million other commands that the Discord API allows. Instead of having YAGPDB for moderation, Mee6 for levels, and FredBoat for music, Bob will control everything that falls under that umbrella.
+
+#### Why?
+I hate clutter and to be quite honest too many bots doing too many different things on a server with over 1000 people is quite irritating. Plus, everything will be streamlined so we don't have to deal with shut downs from Mee6 or YAGPDB, plus moderator control over the bots. 
 
 ## Feature Set
 Bob's skillset for right now will be simple, once we can implement the moderation system into it, then advancement can continue.
